@@ -1,4 +1,4 @@
-# password-generator
+# password_generator
 Python password generator - generates random string of requested length using letters, number and special characters.
 
 Will produce both upper and lower case letters.
